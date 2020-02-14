@@ -10,4 +10,6 @@ body {
   background-color: darkseagreen;
   background: radial-gradient(darkseagreen 0%, black 70%);
   width: 500px;
+  top: 50%;  
+  height: 1080px;
 }
